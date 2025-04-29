@@ -1,5 +1,5 @@
 # amazon_customer_analysis
-Current Project
+Current Project In Progress:
 Analyzing Amazon Customer Behavior Survey
 
 # Data Source: 
